@@ -1,0 +1,20 @@
+{
+  "short_name": "Roznos",
+  "name": "Roznos Petržalka",
+  "icons": [
+    {
+      "src": "https://assets.macaly-user-data.dev/oVHtJE8wUms2_rdZbzJVsUs7/dz0zjmc0ij02124vk7o3h86i/s6ydE7USJM9y9hDleQ2NX/roznos-icon-192-4DjKK1Th.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://assets.macaly-user-data.dev/oVHtJE8wUms2_rdZbzJVsUs7/dz0zjmc0ij02124vk7o3h86i/rBOrvTVqssXil8cTM3PRo/roznos-icon-512-9UJMjlCu.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
